@@ -42,7 +42,7 @@ The goal is to Develop a U-Net model incorporating Batch Normalization, Layer No
 
 1. *Clone the repository*:
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-segmentation.git
+   git clone https://github.com/dbharathi9676/Brain_Tumor_Segmentation.git
    cd brain-tumor-segmentation
 
 
