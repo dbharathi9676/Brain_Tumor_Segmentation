@@ -1,6 +1,5 @@
 # 🧠 Brain Tumor Segmentation Using U-Net
 
-![Brain Tumor](https://github.com/user-attachments/assets/brain-tumor-image-placeholder)
 
 # 📜 Overview
 
